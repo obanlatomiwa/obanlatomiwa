@@ -31,15 +31,21 @@ Here are some ideas to get you started:
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)
+![TrqavisCI](https://img.shields.io/badge/-TravisCI-000?&logo=TravisCI&logoColor=888)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express.js)
 ![Django](https://img.shields.io/badge/Django--000000?style=flat&logo=Django)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Git](https://img.shields.io/badge/Git--000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub--000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Amazon Web Services](https://img.shields.io/badge/AWS--000000?style=flat&logo=amazon)
+![Postgresql](https://img.shields.io/badge/PostgreSQL--000000?style=flat&logo=postgresql)
+![Mongo DB](https://img.shields.io/badge/MongoDB--000000?style=flat&logo=mongodb)
+
 
 
 
