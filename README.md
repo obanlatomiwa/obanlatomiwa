@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-![HTML5](https://img.shields.io/badge/HTML5--000000?style=flat&logo=HTML5)
 
 
 ### Some of the technologies I have worked with
@@ -63,4 +62,4 @@ Here are some ideas to get you started:
 [![MMobile Phone](https://img.shields.io/badge/-Mobile_Phone-blue)](https://github.com/obanlatomiwa/MobilePhone)
 
 
-<a href="https://www.adamalston.com/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=obanlatomiwa&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obanlatomiwa&hide=jupyter%20notebook,html&hide_title=true&hide_border=true&layout=compact&langs_count=10&exclude_repo=AI-Invasion2019,competitive-data-science&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://www.adamalston.com/"><img height="140px" src="https://github-readme-stats.vercel.app/api?username=obanlatomiwa&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="140px" weight="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obanlatomiwa&hide=jupyter%20notebook,html&hide_title=true&hide_border=true&layout=compact&langs_count=10&exclude_repo=AI-Invasion2019,competitive-data-science&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
