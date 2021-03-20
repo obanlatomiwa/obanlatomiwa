@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 [![Remind ME](https://img.shields.io/badge/📗-&nbsp;&nbsp;Remind&nbsp;Me-000000?style=flat)](https://remind-me-by-me.herokuapp.com/)
 [![Recipefy](https://img.shields.io/badge/🍽️-&nbsp;&nbsp;Recipefy-FFA500?style=flat)](https://obanlatomiwa.github.io/recipefy/)
-[![Book Tours](https://img.shields.io/badge/📚-&nbsp;&nbsp;Book_Tour-0000FF?style=flat)](https://my-tour-application.herokuapp.com/)
+[![Book Tours](https://img.shields.io/badge/📚-&nbsp;&nbsp;Book_Tours-0000FF?style=flat)](https://my-tour-application.herokuapp.com/)
 
 
 ### Other Projects
