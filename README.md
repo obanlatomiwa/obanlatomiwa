@@ -37,10 +37,11 @@ Here are some ideas to get you started:
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express.js)
 ![Django](https://img.shields.io/badge/Django--000000?style=flat&logo=Django)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Flask](https://img.shields.io/badge/Flask--000000?style=flat&logo=Flask)
 ![Git](https://img.shields.io/badge/Git--000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub--000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Amazon Web Services](https://img.shields.io/badge/AWS--000000?style=flat&logo=amazon)
+![Google Cloud Platform](https://img.shields.io/badge/GCP--000000?style=flat&logo=google)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL--000000?style=flat&logo=postgresql)
 ![Mongo DB](https://img.shields.io/badge/MongoDB--000000?style=flat&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
@@ -49,18 +50,9 @@ Here are some ideas to get you started:
 
 
 
-### Web / Full Stack Projects
+<!-- ### Web / Full Stack Projects
 
-[![Remind ME](https://img.shields.io/badge/📗-&nbsp;&nbsp;Remind&nbsp;Me-000000?style=flat)](https://remind-me-by-me.herokuapp.com/)
-[![Recipefy](https://img.shields.io/badge/🍽️-&nbsp;&nbsp;Recipefy-FFA500?style=flat)](https://obanlatomiwa.github.io/recipefy/)
-[![Book Tours](https://img.shields.io/badge/📚-&nbsp;&nbsp;Book_Tours-0000FF?style=flat)](https://my-tour-application.herokuapp.com/)
-
-
-### Other Projects
-
-[![Make your Playlist](https://img.shields.io/badge/-Playlist-blue)](https://github.com/obanlatomiwa/Playlist)
-[![CI/CD](https://img.shields.io/badge/-CI/CD-blue)](https://github.com/obanlatomiwa/docker-react-project)
-[![MMobile Phone](https://img.shields.io/badge/-Mobile_Phone-blue)](https://github.com/obanlatomiwa/MobilePhone)
+[![Book Tours](https://img.shields.io/badge/📚-&nbsp;&nbsp;Book_Tours-0000FF?style=flat)](https://my-tour-application.herokuapp.com/) -->
 
 
 <a href="https://www.adamalston.com/"><img height="140px" src="https://github-readme-stats.vercel.app/api?username=obanlatomiwa&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="140px" weight="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obanlatomiwa&hide=jupyter%20notebook,html&hide_title=true&hide_border=true&layout=compact&langs_count=10&exclude_repo=AI-Invasion2019,competitive-data-science&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
