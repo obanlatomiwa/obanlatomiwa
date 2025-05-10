@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/obanlatomiwa?tab=repositories&q=&type=&language=python)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/obanlatomiwa?tab=repositories&q=&type=&language=java)
-[![Golang](https://img.shields.io/badge/-Golang-000?&logo=Goland&logoColor=007396)](https://github.com/obanlatomiwa?tab=repositories&q=&type=&language=go)
+[![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go&logoColor=007396)](https://github.com/obanlatomiwa?tab=repositories&q=&type=&language=go)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/obanlatomiwa?tab=repositories&q=&type=&language=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)](https://github.com/obanlatomiwa?tab=repositories&q=&type=&language=typescript)
 
 
 
